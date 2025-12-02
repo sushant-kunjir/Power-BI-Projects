@@ -1,4 +1,4 @@
-# PRISM INSURANCE DASHBOARD
+# PRIME-TRUST INSURANCE DASHBOARD
 
 ### Dashboard Link : https://app.powerbi.com/links/hAcrDtl7TH?ctid=9f29f7b9-493c-45c8-adf8-2ce2ff707b11&pbi_source=linkShare
 
